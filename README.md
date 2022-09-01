@@ -1,2 +1,2 @@
-# trees-and-graphs
+# Trees and Graphs
 Binary Trees and Graphs
